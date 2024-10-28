@@ -2,8 +2,8 @@
 
 #### 1장 GA4 API 기초 사용법
 1.1 [GA4 API 파이썬과 연결<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_api_basic.ipynb)
-1.2 측정기준 설정<br>
-1.3 측정항목 설정<br>
+1.2 측정기준, 측정항목 설정<br>
+1.3 내림차순 정렬하기<br>
 1.4 GA4 탐색보고서 파이썬에서 출력하기<br>
 
 #### 2장 필터 활용 방법
