@@ -3,9 +3,8 @@
 #### 1장 GA4 API 기초 사용법
 1.1 [GA4 API 파이썬과 연결<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_api_basic.ipynb)
 1.2 [측정기준, 측정항목 설정<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_demention_metric.ipynb)
-1.3 [정렬 커스터마이징 하기<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_orderby.ipynb)
+1.3 [정렬기준 커스터마이징 하기<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_orderby.ipynb)
 1.4 [맞춤 측정기준 만들기<br>](https://github.com/kunyoungkim/ga4-api/blob/main/ga4_custom_demention.ipynb)
-1.5 GA4 탐색보고서 파이썬에서 출력하기<br>
 
 #### 2장 필터 활용 방법
 2.1 측정기준 필터링하기<br>
