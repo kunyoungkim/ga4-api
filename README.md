@@ -18,4 +18,6 @@
 3.2 한꺼번에 대량의 데이터 불러오기<br>
 3.3 구글 시트에 데이터 입력 자동화
 
+
+
 더 자세한 내용은 [블로그](https://coduking.tistory.com/category/%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9/GTM%2C%20GA4%20API)에서 볼 수 있습니다.
